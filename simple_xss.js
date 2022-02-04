@@ -1,1 +1,1 @@
-<script>alert(document.coookie);</script>
+<script>alert(document.cookie);</script>
